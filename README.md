@@ -1,2 +1,2 @@
 # tanviraut
-This is my git firdt resiptory
+This is my git first resiptory
